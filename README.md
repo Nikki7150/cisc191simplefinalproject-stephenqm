@@ -115,7 +115,7 @@ Included tests:
 | `GameControllerTest` | REST endpoint responses |
 | `WebInterfaceTest` | The browser page loads and points to the REST API |
 
-
+Who this application would be for: This app could be for competitive gamers or people who wanted to track their wins over time. This app provides users with a way to log matches between two players, have scores generated automatically, and see a live leaderboard that ranks everyone by total wins. The data persistence allows users to have their data saved and acts as a personal ranking system.
 
 Module Topic Locations
 Module 1: Arrays + OO Refresh
